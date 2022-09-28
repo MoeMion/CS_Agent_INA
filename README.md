@@ -14,7 +14,7 @@ cs_agent_0.0.2
 5、支持自定义配置文件名称  【可选 -javaagent:cs_agent.jar=config.ini 】
 ```
 
-cs_agent_0.0.3
+cs_agent_0.0.4
 
 ```
 1、修复代码逻辑, 当不开启翻译功能时，可删除resources和scripts目录
